@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <string name="welcom_to_tic_tac_tao">Welcom To Tic Tac Tao</string>
+    <string name="main_grid">main grid</string>
+
+    <string name="xs_turn_tap_to_play">Xs turn - Tap to play</string>
+
+</resources>
